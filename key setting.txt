@@ -1,0 +1,11 @@
+up left down right z x c
+
+상 좌 하 우 키1 키2 키3 순으로 맨 윗줄에 띄어쓰기를 기준으로 입력해주세요
+각 키에 알바벳키를 할당하고 싶으면 해당위치에 알파벳을 방향키를 할당하고
+싶을경우 up, down, left, right를 적어주시면 됩니다.
+
+ex) 방향키로 조작하고 키 1, 2, 3에 z x c를 배정하고싶을 경우
+up left down right z x c
+
+ex2) wasd로 조작하고 방향키 아래 3개에 키1, 2, 3을 배정하고 싶을경우
+w a s d left down right
